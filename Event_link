@@ -1,0 +1,14 @@
+Aventrix 2024 - CSI Event 🚀
+Aventrix 2024 is an exciting technical event organized by CSI, bringing together tech enthusiasts for a series of innovative competitions and challenges. Designed to foster creativity and problem-solving, the event serves as a platform for students to showcase their technical skills.
+
+🔗 Live Website: https://aventrix-24.vercel.app/main.html
+
+🌟 About the Event
+Aventrix features multiple engaging activities, including coding contests, hackathons, UI/UX challenges, and more. Participants get an opportunity to test their expertise, collaborate with peers, and win exciting prizes.
+
+💻 Website Development
+This repository contains the complete source code for the Aventrix 2024 website. Developed with a responsive and user-friendly design, the website provides all necessary event details, including schedules, registrations, and announcements.
+
+🛠️ Technologies Used
+Frontend: HTML, CSS, JavaScript
+Hosting: Vercel
